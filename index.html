@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>To-Do List</h1>
+        <div class="task-input">
+            <input type="text" id="task" placeholder="Add a new task">
+            <input type="text" id="date" class="datepicker" placeholder="Due date">
+            <button id="add">Add Task</button>
+        </div>
+        <ul id="task-list">
+            <!-- Task items will be added here dynamically -->
+        </ul>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
