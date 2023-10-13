@@ -2,7 +2,7 @@
 
 This simple web-based To-Do List Application allows you to create, manage, and organize your tasks with features like adding, editing, setting due dates, and marking tasks as completed. The application also utilizes local storage to save your tasks between sessions, ensuring you don't lose any important information.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_20231013-145359.jpg)
 
 ## Features
 
@@ -20,7 +20,7 @@ You can use this application by opening `index.html` in a modern web browser. Th
 1. Clone the repository to your local machine:
 
 
-
+git clone https://github.com/ShadBalti/To-Do-List-Application.git
 
 
 2. Open the `index.html` file in your preferred web browser.
@@ -59,5 +59,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, you can reach out to [Your Name](https://github.com/your-username).
+For questions or feedback, you can reach out to [Dilshad Shad Balti](https://github.com/ShadBalti).
 
