@@ -3,7 +3,7 @@
 This simple web-based To-Do List Application allows you to create, manage, and organize your tasks with features like adding, editing, setting due dates, and marking tasks as completed. The application also utilizes local storage to save your tasks between sessions, ensuring you don't lose any important information.
 
 ![Screenshot](Screenshot_20231013-145359.jpg)
-
+![Screenshot](Screenshot_20231013-145506.jpg)
 ## Features
 
 - Add new tasks with descriptions.
