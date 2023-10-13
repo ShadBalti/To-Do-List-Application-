@@ -19,3 +19,45 @@ You can use this application by opening `index.html` in a modern web browser. Th
 
 1. Clone the repository to your local machine:
 
+
+
+
+
+2. Open the `index.html` file in your preferred web browser.
+
+3. You can start adding tasks, setting due dates, and using other features of the application.
+
+## Usage
+
+- **Adding a New Task**: Enter the task description and due date, then click the "Add Task" button.
+
+- **Editing a Task**: To edit a task description or due date, click on the task text, make your changes, and press Enter.
+
+- **Completing a Task**: Click the "Complete" button to mark a task as completed. Click it again to uncomplete the task.
+
+- **Deleting a Task**: Click the "Delete" button to remove a task from the list.
+
+- **Saving Tasks**: The application saves tasks to your local storage, so you can return to them later.
+
+## Contributing
+
+If you'd like to contribute to the project, feel free to submit a pull request. We welcome improvements, bug fixes, and new features.
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a pull request with a description of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- This project was inspired by the need for a simple and effective to-do list application for personal use and learning web development.
+
+## Contact
+
+For questions or feedback, you can reach out to [Your Name](https://github.com/your-username).
+
